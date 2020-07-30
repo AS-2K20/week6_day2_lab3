@@ -1,0 +1,32 @@
+.grid{
+    display: flex;
+}
+
+.content{
+    align-items: flex-start;
+}
+
+.content h1{
+    font-family:sans-serif;
+    color: #F05136;
+    margin-top: 70px;
+    font-size: 2.8rem;
+}
+
+p{
+    font-family: sans-serif;
+    line-height: 1.6rem;
+}
+
+#bold_p{
+    font-weight: bold;
+}
+
+#red_p{
+    color: #F05136;
+}
+
+#pg_pic{
+    align-items: flex-end;
+    margin-left: 210px;
+}
